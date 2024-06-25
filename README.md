@@ -14,3 +14,6 @@ Using React hooks to manage state and side effects.
 Creating and using customized hooks for cleaner and more reusable code.
 
 This project is an excellent starting point for anyone looking to gain hands-on experience with API integration and the use of customized hooks in React.
+![image](https://github.com/manya16102003/RandomGif/assets/123743851/0f7de2fb-0376-4c80-8114-02de0cfdb5a3)
+
+
